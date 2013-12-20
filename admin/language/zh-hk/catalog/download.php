@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Downloads';
+$_['heading_title']    = '下载目录';
 
 // Text
 $_['text_success']     = 'Success: You have modified downloads!';
