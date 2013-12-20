@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // Locale
 $_['code']                  = 'en';
 $_['direction']             = 'ltr';
@@ -19,7 +19,7 @@ $_['text_pagination']       = 'Showing {start} to {end} of {total} ({pages} Page
 $_['text_separator']        = ' &raquo; ';
 
 // Buttons
-$_['button_add_address']    = 'Add Address';
+$_['button_add_address']    = '加地址';
 $_['button_back']           = 'Back';
 $_['button_continue']       = 'Continue';
 $_['button_cart']           = 'Add to Cart';
