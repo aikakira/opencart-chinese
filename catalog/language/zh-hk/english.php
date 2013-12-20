@@ -20,7 +20,7 @@ $_['text_separator']        = ' &raquo; ';
 
 // Buttons
 $_['button_add_address']    = '加地址';
-$_['button_back']           = 'Back';
+$_['button_back']           = '後退';
 $_['button_continue']       = 'Continue';
 $_['button_cart']           = '加入購物車';
 $_['button_compare']        = 'Add to Compare';
